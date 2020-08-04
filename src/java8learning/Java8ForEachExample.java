@@ -32,8 +32,8 @@ public class Java8ForEachExample {
 		});
 		
 		//traversing with Consumer interface implementation
-		MyConsumer action = new MyConsumer();
-		myList.forEach(action);
+		//MyConsumer action = new MyConsumer();
+		//myList.forEach(action);
 		
 	}
 

@@ -16,6 +16,10 @@ public class ReverseString {
 	public static void main(String arg[]) {
 
 		System.out.println("Gitstuff edited code");
+		
+		System.out.println("Gitdemo edited code");
+		System.out.println("Gitdemo edited code");
+		System.out.println("Gitdemo edited code");
 
 		//using StringBuilder
 		
